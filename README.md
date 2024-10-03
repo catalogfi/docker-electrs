@@ -1,6 +1,6 @@
 # Docker electrs
 
-Dockerfile of the public images [catalogfi/electrs](https://ghcr.io/catalogfi/electrs)
+Dockerfile of the public image [catalogfi/electrs](https://ghcr.io/catalogfi/electrs)
 
 ## Electrs
 
